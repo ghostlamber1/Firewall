@@ -1,7 +1,7 @@
 # </SecuritySpider>
 
 #Para tener una mejor visualización del archivo readme.md, cambie la barra hacia el botón código.
-Configuración del firewall iptables :v
+Configuración del firewall iptables
 Version creada en bash.
 Para poder configurar el firewall "iptables"que por defecto tienen la mayoría de distribuciones Linux.
 
